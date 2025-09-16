@@ -21,18 +21,10 @@ Time spent attending academic conferences does not count toward vacation days wh
 
 ### Publication Support Policy
 
-The lab provides travel support for students presenting at academic conferences. Currently, support is available for:
-- Students who are authors on accepted papers
+- The lab provides travel support for students presenting a paper at academic conferences.
 - Support includes registration, accommodation, and travel expenses
 - Must apply for support at least 4 weeks in advance
 - Submit conference acceptance letter and estimated costs
-
-### Funding Guidelines
-
-- Support is prioritized for students presenting research
-- International conference support requires case-by-case evaluation
-- Discuss with advisor before making travel arrangements
-- Keep all receipts for reimbursement
 
 ## Research Expectations
 
