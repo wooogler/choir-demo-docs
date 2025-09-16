@@ -61,6 +61,7 @@ The IRB review typically takes 2-3 weeks. The review may require revisions or cl
 - Submit early drafts to your advisor for feedback
 - Follow conference-specific formatting guidelines
 - Plan submission timeline well in advance
+- Review lab travel policies before submitting to conferences
 
 ### Journal Submissions
 

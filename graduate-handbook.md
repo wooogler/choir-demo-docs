@@ -35,6 +35,25 @@ Focus on dissertation research, submit publications, and take advantage of teach
 ### Year 5+
 Complete dissertation writing, prepare for the job market, and schedule your final defense.
 
+## Funding and Support
+
+### Research Assistantships
+
+Graduate students are typically supported through research assistantships that cover:
+- Full tuition waiver
+- Monthly stipend
+- Health insurance coverage
+
+### Conference Travel
+
+Limited funding is available for conference travel. Students should consult lab-specific policies for detailed guidelines on travel support and reimbursement procedures.
+
+### Professional Development
+
+- Access to university writing centers and career services
+- Professional development workshops
+- Access to online learning platforms and library resources
+
 ## Resources
 
 Additional resources are available through the Graduate School Handbook, Academic Calendar, and Student Services. Contact information is available through the university website.
